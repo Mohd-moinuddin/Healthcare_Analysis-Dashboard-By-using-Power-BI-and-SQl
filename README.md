@@ -41,3 +41,26 @@ Interactive Filters:
 Filters are available by Gender, Age, and Hospital, allowing dynamic and focused data exploration.
 
 This dashboard offers actionable insights for hospital management, helping monitor performance, patient demographics, and operational trends across various categories.
+
+
+The SQL query report outlines key healthcare performance metrics derived from a dataset, focusing on essential operational and patient demographics. The report includes the following Key Performance Indicators (KPIs):
+
+Total Revenue: Sum of all billing amounts, representing overall earnings.
+
+Average Billing Amount per Patient: Mean value of billing per individual patient.
+
+Admissions per Hospital: Ranked list showing hospital-wise patient admissions.
+
+Admissions by Type: Categorization into Elective, Urgent, and Emergency cases.
+
+Top 5 Medical Conditions: Most frequently occurring conditions based on patient count.
+
+Average Length of Stay: Average duration (in days) of patient hospitalization.
+
+Gender Distribution: Count of male vs. female patients.
+
+Top 5 Doctors: Doctors ranked by the number of patients treated.
+
+Insurance Provider Utilization: Frequency of patient coverage by various insurance providers.
+
+The queries collectively provide a data-driven snapshot for hospital administrators to analyze trends, manage resources, and improve patient care strategies.
